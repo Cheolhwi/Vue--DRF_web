@@ -32,6 +32,11 @@ export default {
     components: {
         OrderSummary
     },
+    created() {
+        setTimeout(() => {
+            window.location.reload()
+        }, 5000)
+    },
     data() {
         return {
             orders: []
