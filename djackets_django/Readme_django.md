@@ -21,7 +21,7 @@ python manage.py createsuperuser
 ```
 http://127.0.0.1:8000/admin/ in admin page please add two categorys <br>
 name: Food slug: food <br>
-name: Drink slug: Drink
+name: Drink slug: drink
 ---------------------------------------------------------------------
 
 make sure in file `Vue--DRF_web/djackets_django/djackets_django/settings.py`
