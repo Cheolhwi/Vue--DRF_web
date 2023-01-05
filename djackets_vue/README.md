@@ -10,7 +10,7 @@ Rename the oringin folder `djackets_vue` to `djacktes_vue_migrate`, and
 vue create djackets_vue
 ```
 
-Choose
+Choose the options step by step:
 
 Manually select features
 
