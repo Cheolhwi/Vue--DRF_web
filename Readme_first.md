@@ -14,6 +14,6 @@ pip install stripe
 
 
 
-when you operate Django back-end make sure you at `Vue--DRF_web/djackets_django/` and see the readme file first
+make sure you at `Vue--DRF_web/djackets_django/` and see the readme file first
 
-and make sure operate Vue.js front-end at `Vue--DRF_web/djackets_vue/` and see the readme file first
+make sure operate Vue.js front-end at `Vue--DRF_web/djackets_vue/` and see the readme file first
