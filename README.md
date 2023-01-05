@@ -1,4 +1,5 @@
-make sure you have `python ` and `npm `  environment on your device, and in `Vue--DRF_web` directory
+This project should have `python ` and `npm `  environment on your device <br>
+in `Vue--DRF_web` directory
 
 ```shell
 pip install virtualenv
