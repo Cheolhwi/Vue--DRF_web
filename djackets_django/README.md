@@ -26,9 +26,7 @@ name: Food slug: food
 name: Drink slug: drink
 ---------------------------------------------------------------------
 
-make sure in file `Vue--DRF_web/djackets_django/djackets_django/settings.py`
-
-make sure in the line 52 `http://localhost:8081 ` the port should be **the same as the port in Vue.js front-end**.
+make sure in file `Vue--DRF_web/djackets_django/djackets_django/settings.py` in the line 52 `http://localhost:8081 ` the port should be **the same as the port in Vue.js front-end**.
 
 ```
 CORS_ALLOWED_ORIGINS = [
