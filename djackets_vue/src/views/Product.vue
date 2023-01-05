@@ -89,3 +89,11 @@ export default {
     }
 }
 </script>
+
+<style scoped>
+
+.image img {
+    width: 50%;
+    height: auto;
+}
+</style>
