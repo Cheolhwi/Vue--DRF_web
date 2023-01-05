@@ -13,21 +13,24 @@ python manage.py runserver
 
 to start the back-end server
 if you want to access the admin page, please use http://127.0.0.1:8000/admin/
-and the superuser account is: 
 
-id: admin123
+**before log in, you should create a superuse account first**
 
-password: nmslcsb@123
+```python
+python manage.py createsuperuser
+```
+
+
+
+---------------------------------------------------------------------
 
 make sure in file `Vue--DRF_web/djackets_django/djackets_django/settings.py`
 
-make sure in the line 52 `http://localhost:8081 ` the port should be the same as the port in Vue.js front-end.
+make sure in the line 52 `http://localhost:8081 ` the port should be **the same as the port in Vue.js front-end**.
 
 ```
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8081",
 ]
 ```
-
-
 
