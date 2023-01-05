@@ -2,6 +2,7 @@ make sure you have `python ` and `npm `  environment on your device, and in `Vue
 
 ```shell
 pip install virtualenv
+virtualenv environment_3_8_2
 source environment_3_8_2/bin/activate
 pip install django
 pip install django-rest-framework
