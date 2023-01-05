@@ -19,8 +19,10 @@ if you want to access the admin page, please use http://127.0.0.1:8000/admin/
 ```python
 python manage.py createsuperuser
 ```
-http://127.0.0.1:8000/admin/ in admin page please add two categorys <br>
-name: Food slug: food <br>
+http://127.0.0.1:8000/admin/ in admin page please add two categorys 
+<br>
+name: Food slug: food 
+<br>
 name: Drink slug: drink
 ---------------------------------------------------------------------
 
