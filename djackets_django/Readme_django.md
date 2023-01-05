@@ -12,6 +12,10 @@ python manage.py runserver
 ```
 
 to start the back-end server
+if you want to access the admin page, please use http://127.0.0.1:8000/admin/
+and the superuser account is 
+admin123
+nmslcsb@123
 
 make sure in file `Vue--DRF_web/djackets_django/djackets_django/settings.py`
 
