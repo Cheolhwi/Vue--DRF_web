@@ -16,4 +16,4 @@ pip install stripe
 
 make sure you at `Vue--DRF_web/djackets_django/` and see the readme file first
 
-after that make sure operate Vue.js front-end at `Vue--DRF_web/djackets_vue/` and see the readme file first
+after that make sure Vue.js front-end at `Vue--DRF_web/djackets_vue/` and see the readme file first
